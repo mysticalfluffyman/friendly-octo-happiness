@@ -1,4 +1,4 @@
-# yit
+# FRIENDY OCTO HAPPINESS
 
 This project is a simple flutter application to lookup images form 'https://pixabay.com'.
 This will look up images and return 20 images at a time. The pages can be changed to update the images.
